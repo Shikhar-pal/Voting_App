@@ -1,0 +1,16 @@
+ {
+    "name": "Rahul Sharma",
+    "party": "BJP",
+    "age": 45,
+    "votes": [
+      {
+        "user": "6834a8d123456789abcd1234",
+        "votedAt": "2026-05-31T10:30:00.000Z"
+      },
+      {
+        "user": "6834a8d123456789abcd1235",
+        "votedAt": "2026-05-31T11:15:00.000Z"
+      }
+    ],
+    "voteCount": 2
+  }
